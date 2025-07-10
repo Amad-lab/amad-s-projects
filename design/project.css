@@ -1,4 +1,8 @@
 
+.header{
+  background-image: url("../Assets/Hero-bg.png");
+  width: 1250px;
+  height: 450px;
 .body{
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -26,9 +30,25 @@ nav{
   font-size: 1em;
   background-color: #4E47FF;
   color: aqua;
-  padding: 4px;
+  padding: 5px 20px;
   border-radius: 5px;
+  border: 2px solid black;
+}
+.buttoni:hover{
+  background-color: black;
 }
 nav ul li{
   list-style: none;
+}
+/* text align */
+.text-align{
+  text-align: center;
+}
+#h1, #h2 {
+  font-size: 35px;
+  margin: 10px 0;
+  line-height: 1.2;
+}
+.marge{
+  margin-top: 30px;
 }
