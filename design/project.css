@@ -170,8 +170,32 @@ display: block;
   font-size: 70px;
   font-weight: bold;
   font-family: sans-serif;
-
 }
 #buttone{
   margin-top: 5%;
+}
+/*last one */
+.nav-center{
+  margin: 50px auto;
+  text-align: center;
+  border: 0 solid aqua;
+ margin-left: 17%;
+.logo{
+  font-size: 80px;
+  font-weight: 800;
+  margin-bottom: 0px;
+}
+.paragraph1{
+  margin-top: 0px;
+  color: #8987A1;
+  font-size: 1em;
+}
+.navi{
+  display: flex;
+  gap: 20px;
+  color: #8987A1;
+  margin-left: 12%;
+}
+.navi li a{
+  text-decoration: none;
 }
