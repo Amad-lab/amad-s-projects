@@ -2,7 +2,8 @@
 .header{
   background-image: url("../Assets/Hero-bg.png");
   width: 1250px;
-  height: 520px;}
+  height: 520px;
+}
 .body{
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -58,8 +59,8 @@ nav ul li{
 /* second chapter*/
 .main-point{
   max-width: 1050px;
-  margin: 0 auto;}
-
+  margin: 0 auto;
+}
 .container {
   display: flex;
   align-items: center;
@@ -142,4 +143,15 @@ nav ul li{
 }
 .repeat{
   display: flex;
+}
+/* step5 */
+.content{
+  text-align: center;
+  margin-top: 140px;
+}
+.image-align{
+  margin-top: 20px;
+  margin-left: 10%;
+  width: 850px;
+  border-radius: 50px;
 }
