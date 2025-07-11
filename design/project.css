@@ -179,7 +179,7 @@ display: block;
   margin: 50px auto;
   text-align: center;
   border: 0 solid aqua;
- margin-left: 17%;
+ margin-left: 17%;}
 .logo{
   font-size: 80px;
   font-weight: 800;
@@ -194,7 +194,7 @@ display: block;
   display: flex;
   gap: 20px;
   color: #8987A1;
-  margin-left: 12%;
+  margin-left: 13%;
 }
 .navi li a{
   text-decoration: none;
